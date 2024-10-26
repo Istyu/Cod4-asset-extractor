@@ -40,3 +40,4 @@ Enables extractor commands without setting the developer parameter to 2.
 ## Why is it good to inject this
 - The extractor mode only then it works if you `set developer 2`
 - E.g.: +set fs_game mods/[your mod name] +exec server.cfg +set dedicated 0 +set developer 2
+- If you inject this, you don't need to set the developer to 2
