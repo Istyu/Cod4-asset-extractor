@@ -1,4 +1,7 @@
 # Cod4-asset-extractor
+<p align="center">
+  <img src="assets/github/console.png?raw=true" />
+</p>
 Enable extractor commands without developer mode.
 
 ## What is this
