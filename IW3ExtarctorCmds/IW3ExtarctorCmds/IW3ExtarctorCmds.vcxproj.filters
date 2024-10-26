@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="IW3.cpp">
+      <Filter>Source Files\common\IW3</Filter>
+    </ClCompile>
+    <ClCompile Include="HookManager.cpp">
+      <Filter>Source Files\managers\HookManager</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandManager.cpp">
+      <Filter>Source Files\managers\CommandManager</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files\project</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files\project</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintManager.cpp">
+      <Filter>Source Files\managers\PrintManager</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files\project</Filter>
+    </ClInclude>
+    <ClInclude Include="IW3.h">
+      <Filter>Source Files\common\IW3</Filter>
+    </ClInclude>
+    <ClInclude Include="HookManager.h">
+      <Filter>Source Files\managers\HookManager</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandManager.h">
+      <Filter>Source Files\managers\CommandManager</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintManager.h">
+      <Filter>Source Files\managers\PrintManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{21d553bc-7054-48f4-b950-b72793ab13fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\project">
+      <UniqueIdentifier>{bbc67b6e-9f60-4c35-8b2f-4d9b369891c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{64c45e92-b867-4593-8413-5db70551cd41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\common">
+      <UniqueIdentifier>{8b2f5e4c-3fd2-4096-b063-9cea4bd7eaf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\managers">
+      <UniqueIdentifier>{0d7db12e-5f1e-425b-9ac8-a1bd08e2bc74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\managers\HookManager">
+      <UniqueIdentifier>{31c31095-30c2-4628-8f68-56c231dcf01b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\common\IW3">
+      <UniqueIdentifier>{5493c517-ccea-4dcb-b1c4-f8a002b263ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\managers\CommandManager">
+      <UniqueIdentifier>{0c279045-7e82-4bd8-abb3-ef52bddec05b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\managers\PrintManager">
+      <UniqueIdentifier>{ddcc41b3-4f5b-434d-a75a-eab444727068}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\project">
+      <UniqueIdentifier>{4e93633e-d817-407c-a392-c99c35e4afef}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
