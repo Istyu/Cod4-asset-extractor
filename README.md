@@ -5,8 +5,8 @@ Enable extractor commands without developer mode.
 Enables extractor commands without setting the developer parameter to 2.
 
 ## How to use
-Just inject the [IW3ExtarctorCmds.dll](https://github.com/Istyu/Cod4-asset-extractor/releases/download/IW3-Extarctor-commands/IW3ExtarctorCmds.dll) to cod4x18_dedrun.exe process.
-Now `extract` and `assets` commands are available.
+- Just inject the [IW3ExtarctorCmds.dll](https://github.com/Istyu/Cod4-asset-extractor/releases/download/IW3-Extarctor-commands/IW3ExtarctorCmds.dll) to cod4x18_dedrun.exe process.
+- Now `extract` and `assets` commands are available.
 
 ## Requires cod4xdedrun version
 - version: 1.8
