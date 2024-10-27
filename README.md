@@ -24,7 +24,7 @@ Enables extractor commands without setting the developer parameter to 2.
 - 3 Wait for the extract to run.
 - 4 You can exit to the server console.
 - 5 Navigate your cod4 main directory where you ran this server, and here you can find the raw extracted files.
-
+-
 - ff - Name of fastfile to look into, without extension.
 - type - Type of asset. Must be one of:
 - all
@@ -33,7 +33,7 @@ Enables extractor commands without setting the developer parameter to 2.
 - rawfile
 - stringtable
 
-- Examples:
+Examples:
 - `extract mod all              ` Extracts everything available
 - `extract mod menufile         ` Extracts .menu files
 - `extract mod localizedstring  ` Extracts localized string files
